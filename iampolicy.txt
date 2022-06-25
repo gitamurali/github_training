@@ -1,0 +1,5 @@
+IAM Role: IAM role is the user who has access to the resourses based on policy(set of rules to that particular user).
+
+
+
+POLICY: Policy determines what the users role to access or create or to modify data. 
